@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HeadVolley", "HeadVolley.vcxproj", "{FBEE2554-2727-4EDC-901B-0A086EC9E327}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBEE2554-2727-4EDC-901B-0A086EC9E327}.Debug|x64.ActiveCfg = Debug|x64
+		{FBEE2554-2727-4EDC-901B-0A086EC9E327}.Debug|x64.Build.0 = Debug|x64
+		{FBEE2554-2727-4EDC-901B-0A086EC9E327}.Debug|x86.ActiveCfg = Debug|Win32
+		{FBEE2554-2727-4EDC-901B-0A086EC9E327}.Debug|x86.Build.0 = Debug|Win32
+		{FBEE2554-2727-4EDC-901B-0A086EC9E327}.Release|x64.ActiveCfg = Release|x64
+		{FBEE2554-2727-4EDC-901B-0A086EC9E327}.Release|x64.Build.0 = Release|x64
+		{FBEE2554-2727-4EDC-901B-0A086EC9E327}.Release|x86.ActiveCfg = Release|Win32
+		{FBEE2554-2727-4EDC-901B-0A086EC9E327}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F283A36F-8CDC-4933-8072-80031E9E404A}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(372,5): warning MSB8004: El directorio Intermediate no termina con una barra diagonal final. Esta instancia de compilación agregará la barra diagonal porque es necesaria para que se pueda evaluar correctamente el directorio Intermediate.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(373,5): warning MSB8004: El directorio Output no termina con una barra diagonal final. Esta instancia de compilación agregará la barra diagonal porque es necesaria para que se pueda evaluar correctamente el directorio Output.
+  Red.cpp
+  ObjetoMovil.cpp
+  Interaccion.cpp
+  Generando código...
+  Omitiendo... (no se detectaron cambios relevantes)
+  Pared.cpp
+  Mundo.cpp
+  Hombre.cpp
+  Fondo.cpp
+  Esfera.cpp
+  CoordinadorHeadVolley.cpp
+  Caja.cpp
+  HeadVolley.cpp
+  HeadVolley.vcxproj -> C:\Users\user\Documents\UNIVERSIDAD\Infor3o\Juego Clase\HeadVolley\.\bin\HeadVolley.exe
